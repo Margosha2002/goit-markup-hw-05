@@ -1,3 +1,4 @@
 {
-  "circleci.persistedProjectSelection": []
+  "circleci.persistedProjectSelection": [],
+  "liveServer.settings.port": 5501
 }
